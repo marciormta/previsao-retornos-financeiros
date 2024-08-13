@@ -1,8 +1,3 @@
-# Projeto 2 - Prevendo o Retorno Financeiro de Investimentos em Títulos Públicos
-
-# Parte 2 - Desenvolvimento do Modelo Sem Uso de Framework
-
-# Imports
 from os import getcwd
 from math import sqrt
 from csv import reader, writer
