@@ -1,5 +1,3 @@
-# Projeto 2 - Prevendo o Retorno Financeiro de Investimentos em Títulos Públicos
-
 # Parte 1 - Desenvolvimento do Modelo Usando Framework
 
 # Imports
